@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      host: 158.132.20.116
+      port: 27017
+      database: Rinkeby
